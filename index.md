@@ -1,6 +1,6 @@
 # HELLO WORLD
 
-Syntax highlighted code block
+Elliot is bad at CS:GO
 
 # Header 1
 ## Header 2
