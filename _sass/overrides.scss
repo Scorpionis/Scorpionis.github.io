@@ -1,0 +1,64 @@
+//
+// Typography
+//
+// stylelint-disable primer/selector-no-utility, primer/no-override, selector-no-type, selector-max-type
+
+h1,
+.text-alpha {
+  font-family: $heading-font-family;
+  @include fs-8;
+  font-weight: 300;
+}
+
+h2,
+.text-beta {
+  font-family: $heading-font-family;
+  @include fs-6;
+}
+
+h3,
+.text-gamma {
+  font-family: $heading-font-family;
+  @include fs-5;
+}
+
+h4,
+.text-delta {
+  font-family: $heading-font-family;
+  @include fs-2;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+h5,
+.text-epsilon {
+  font-family: $heading-font-family;
+  @include fs-3;
+  color: $grey-dk-200;
+}
+
+h6,
+.text-zeta {
+  font-family: $heading-font-family;
+  @include fs-2;
+  color: $grey-dk-200;
+}
+
+li {
+  .highlight {
+    margin-top: $sp-2;
+  }
+}
+
+.text-small {
+  @include fs-2;
+}
+
+.text-mono {
+  font-family: $mono-font-family !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
