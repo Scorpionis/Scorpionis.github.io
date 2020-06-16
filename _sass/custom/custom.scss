@@ -2,10 +2,10 @@
 //// Typography
 ////
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asul&display=swap');
 
 $body-font-family: 'Asul', 'Roboto Mono', helvetica, roboto, noto, "segoe ui", arial, sans-serif;
-//$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
+$mono-font-family: 'Roboto Mono', "SFMono-Regular", Menlo, Consolas, Monospace;
 //$root-font-size: 16px;         // Base font-size for rems
 //$body-line-height: 1.4;
 //$content-line-height: 1.5;
