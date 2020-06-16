@@ -4,5 +4,5 @@ title: Home
 nav_order: 1
 ---
 
-#Hompage
+# Homepage
 This is the king of all homepages
