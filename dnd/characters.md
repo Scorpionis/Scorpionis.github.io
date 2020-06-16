@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Customization
-nav_order: 2
+title: Characters
 ---
 
 # DnD Characters
