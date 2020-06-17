@@ -1,4 +1,5 @@
 name: Svlla's Shed
+title: svlla
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
