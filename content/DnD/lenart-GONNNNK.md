@@ -1,3 +1,11 @@
+---
+layout: default
+title: Lenart
+parent: Dungeons and Dragons
+nav_order: 2
+published: true
+---
+
 # Lenart GONNNNK
 
 ## Stats
