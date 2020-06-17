@@ -2,12 +2,17 @@
 layout: default
 title: Football Manager
 has_children: true
+has_toc: true
 nav_order: 3
 published: true
 ---
-{:toc}
 
 ## Olimpija Llubljana
+{: .no_toc }
+
+{:toc}
+
+### Chapter 1
 There were a king with a large jaw and a queen with a plain face, on the
 throne of England; there were a king with a large jaw and a queen with
 a fair face, on the throne of France. In both countries it was clearer
