@@ -7,7 +7,7 @@ nav_order: 3
 published: true
 ---
 
-## Olimpija Llubljana
+# Olimpija Llubljana
 {: .no_toc }
 
 1. TOC
