@@ -5,6 +5,7 @@ has_children: true
 nav_order: 3
 published: true
 ---
+{:toc}
 
 ## Olimpija Llubljana
 There were a king with a large jaw and a queen with a plain face, on the
