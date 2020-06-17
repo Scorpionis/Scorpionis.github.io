@@ -125,7 +125,7 @@ li {
 
   @include mq(lg) {
     margin-left: calc(
-      (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
+      (100% - #{$nav-width + $content-width}) / 5 + #{$nav-width}
     );
   }
 }
