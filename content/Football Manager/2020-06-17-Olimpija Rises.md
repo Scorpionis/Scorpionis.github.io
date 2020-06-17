@@ -8,7 +8,6 @@ published: true
 ---
 
 ## Olimpija Llubljana
-{: .no_toc }
 
 ### Chapter 1
 There were a king with a large jaw and a queen with a plain face, on the
