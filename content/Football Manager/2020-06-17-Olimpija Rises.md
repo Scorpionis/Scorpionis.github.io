@@ -20,6 +20,8 @@ a fair face, on the throne of France. In both countries it was clearer
 than crystal to the lords of the State preserves of loaves and fishes,
 that things in general were settled for ever.
 
+#### Alas No
+
 It was the year of Our Lord one thousand seven hundred and seventy-five.
 Spiritual revelations were conceded to England at that favoured period,
 as at this. Mrs. Southcott had recently attained her five-and-twentieth
@@ -34,3 +36,7 @@ from a congress of British subjects in America: which, strange
 to relate, have proved more important to the human race than any
 communications yet received through any of the chickens of the Cock-lane
 brood.
+
+
+
+
