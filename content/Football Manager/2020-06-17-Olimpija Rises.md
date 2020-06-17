@@ -10,8 +10,6 @@ published: true
 ## Olimpija Llubljana
 {: .no_toc }
 
-{:toc}
-
 ### Chapter 1
 There were a king with a large jaw and a queen with a plain face, on the
 throne of England; there were a king with a large jaw and a queen with
