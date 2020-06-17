@@ -18,3 +18,8 @@ Cha: 15 (+5)
 
 ## Role 
 Captain _(+ 4 int)_
+
+## Inventory
+- Broomstick | +1 Str
+- Armour | +8 Con
+- 2x Carrots | +1 HP
