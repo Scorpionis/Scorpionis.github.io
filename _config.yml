@@ -2,4 +2,4 @@ name: Svlla's Shed
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
-// logo: "assets/images/logo.png"
+#logo: "assets/images/logo.png"
