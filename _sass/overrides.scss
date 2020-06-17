@@ -98,7 +98,7 @@ li {
   }
 
   @include mq(lg) {
-    width: calc((100% - #{$nav-width + $content-width}) / 6 + #{$nav-width});
+    width: calc((100% - #{$nav-width + $content-width}) / 6 + (#{$nav-width} * 0.75));
     min-width: $nav-width;
   }
 }
