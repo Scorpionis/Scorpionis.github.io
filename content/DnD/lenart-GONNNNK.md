@@ -6,20 +6,25 @@ nav_order: 2
 published: true
 ---
 
-# Lenart GONNNNK
+# Plums DiceRPG
 
-## Stats
-Str: 13 (+3)
-Dex: 15 (+5)
-Con: 12 (+2)
-Int: 10+4 (+4)
-Wis: 9 (-1)
-Cha: 15 (+5)
+## Attributes
 
-## Role 
-Captain _(+ 4 int)_
+Attributes are similar to DnD. They are divided into six categories
+- Strength
+- Dexterity
+- Constitution
+- Intelligence
+- Wisdom
+- Charisma
 
-## Inventory
-- Broomstick | +1 Str
-- Armour | +8 Con
-- 2x Carrots | +1 HP
+The amount that an attribute is above or below 10 is considered the *attribute modifier*
+
+## Mechanics
+Most actions in P-dRPG are resolved with _d20_ rolls + an _attribute modifier_.
+
+### Defense
+
+### Melee Combat
+
+### Ranged Combat
