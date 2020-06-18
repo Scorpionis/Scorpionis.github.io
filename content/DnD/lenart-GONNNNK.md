@@ -11,14 +11,14 @@ Star-Scoundrel is a hack of Ben Milton's [Knave](https://www.drivethrurpg.com/pr
 *a)* Port Knave to a sci-fi setting
 *b)* Expand upon the core ideas in a consistent, thematic way.
 
-In practice, this means keeping the game _classless_ and having _attributes__ play the central role in resolving conflict. Additionally, the modular and open nature of the Knave system should be maintained, to allow further expansion.
+In practice, this means keeping the game __classless__ and having __attributes__ play the central role in resolving conflict. Additionally, the modular and open nature of the Knave system should be maintained, to allow further expansion.
 
 ## Attributes
 
-The amount that an attribute is above or below 10 is considered the *attribute modifier*
+The amount that an attribute is above or below 10 is considered the **attribute modifier**
 
 ## Mechanics
-Most actions in P-dRPG are resolved with _d20_ rolls + an _attribute modifier_.
+Most actions in P-dRPG are resolved with __d20__ rolls + an __attribute modifier__.
 
 ### Defense
 
