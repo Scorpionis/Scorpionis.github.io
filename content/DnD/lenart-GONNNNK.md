@@ -13,15 +13,30 @@ Star-Scoundrel is a hack of Ben Milton's [Knave](https://www.drivethrurpg.com/pr
 
 In practice, this means keeping the game __classless__ and having __attributes__ play the central role in resolving conflict. Additionally, the modular and open nature of the Knave system should be maintained, to allow further expansion.
 
-## Attributes
+## ATTRIBUTES
 
 The amount that an attribute is above or below 10 is considered the **attribute modifier**
 
-## Mechanics
+## MECHANICS
 Most actions in P-dRPG are resolved with __d20__ rolls + an __attribute modifier__.
 
-### Defense
+### DEFENSE
 
 ### Melee Combat
 
 ### Ranged Combat
+
+## Ships
+
+### Ship Attributes
+
+#### Size
+Size 
+- **Tiny (Crew-size 1)**: This is a single man ship used for intrastellar operations. By default, it has 20 **hit points** and 2 **module slots**.
+- **Small (Crew-size 2-4)**: This is a small vessel, used primarily for civilian use, and occasionally guerilla warfare. By default, it has 35 **hit points** and 3 **module slots**.
+- **Medium (Crew-size 5-10)**: This is a medium vessel, used by medium sized corporations or by localised defense forces. By default, it has 50 **hit points** and 4 **module slots**.
+- **Large (Crewsize 11-25)**: This is a large ship, used for transtellar corporations, national militaries and powerful mercenary groups. By default, it has 75 **hit points** and 6 **module slots**.
+
+#### Agility
+
+####
