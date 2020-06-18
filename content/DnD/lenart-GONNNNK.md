@@ -31,7 +31,6 @@ Most actions in P-dRPG are resolved with __d20__ rolls + an __attribute modifier
 ### Ship Attributes
 
 #### Size
-Size 
 - **Tiny (Crew-size 1)**: This is a single man ship used for intrastellar operations. By default, it has 20 **hit points** and 2 **module slots**.
 - **Small (Crew-size 2-4)**: This is a small vessel, used primarily for civilian use, and occasionally guerilla warfare. By default, it has 35 **hit points** and 3 **module slots**.
 - **Medium (Crew-size 5-10)**: This is a medium vessel, used by medium sized corporations or by localised defense forces. By default, it has 50 **hit points** and 4 **module slots**.
