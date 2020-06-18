@@ -63,6 +63,15 @@ li {
   text-align: center !important;
 }
 
+body {
+  font-family: $body-font-family;
+  font-size: inherit;
+  font-weight: 400;
+  line-height: $body-line-height;
+  color: $body-text-color;
+  background-color: $body-background-color;
+}
+
 .b {
   font-weight: 700 !important;
   font-variant: small-caps;
