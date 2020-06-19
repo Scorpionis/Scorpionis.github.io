@@ -39,3 +39,11 @@ Most actions in P-dRPG are resolved with __d20__ rolls + an __attribute modifier
 #### Agility
 
 ####
+
+## Character Creation
+| Armour 	|                       	|
+|--------	|-----------------------	|
+| 1      	| No Armour             	|
+| 3-4    	| Protective Vest (+1)  	|
+| 4-5   	| Vest and Helmet (+2) 	  |
+| 6       | Vest, Helmet and Shield (+2) |
