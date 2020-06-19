@@ -42,9 +42,9 @@ Most actions in P-dRPG are resolved with __d20__ rolls + an __attribute modifier
 
 ## Character Creation
 
-| Armour 	|                      	|   	|   	|   	|
-|--------	|----------------------	|---	|---	|---	|
-| 1      	| No Armour            	|   	|   	|   	|
-| 3-4    	|  Combat Vest (+1)    	|   	|   	|   	|
-|  4-5   	|  Combat Armour (+2)  	|   	|   	|   	|
-| 6      	| Military Armour (+3) 	|   	|   	|   	|
+| ARMOUR 	|                      	|
+|--------	|----------------------	|
+| 1      	| No Armour            	|
+| 3-4    	|  Combat Vest (+1)    	|
+|  4-5   	|  Combat Armour (+2)  	|
+| 6      	| Military Armour (+3) 	|
