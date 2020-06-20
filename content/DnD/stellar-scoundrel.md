@@ -3,6 +3,7 @@ layout: default
 title: Stellar Scoundrel
 parent: Dungeons and Dragons
 nav_order: 2
+permalink: /stellar/
 published: true
 ---
 
