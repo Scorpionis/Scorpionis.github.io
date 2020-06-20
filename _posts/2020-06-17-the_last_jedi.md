@@ -1,5 +1,5 @@
 ---
-title: The Last JEdi
-
+layout: post
+title: The Last Jedi
 ---
 was good bro
