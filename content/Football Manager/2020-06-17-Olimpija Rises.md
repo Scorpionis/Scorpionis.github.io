@@ -2,6 +2,7 @@
 layout: default
 title: Football Manager
 has_children: true
+permalink: /Football+Manager/
 nav_order: 3
 published: true
 ---
